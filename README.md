@@ -4,9 +4,13 @@
 <h2>*This lab is currently under construction, currently working on getting the Wazuh dashboard installed and connected to Suricata for the IDS*</h2>
 
 <p>
-  Goals for this lab:
-  <li>
-    <ol>Setup Active Directory Domain Controller via Samba </ol>
-    <ol>Setup Security Information and Event Manager (SIEM), which will be Wazuh for this demonstration </ol>
-  </li>
+  <strong>Goals for this lab:</strong>
+  <ol>
+    <li>Setup Active Directory Domain Controller via Samba </li>
+    <li>Setup DHCP via kea dhcp4 package</li>
+    <li>Setup Security Information and Event Manager (SIEM), which will be Wazuh for this demonstration </li>
+    <li>Setup Suricata for the Intrusion Detection System/Intrustion Prevention System (IDS/IPS) and for Network Security Monitoring (MSN) </li>
+    <li>Establish an endpoint connection from either a Windows or Linux client (most likely going to be Windows 11, since that is most common for organizations) </li>
+    <li>Establish a Kali box that will be on a separate network, mimicking an attacker for full breach like scenarios </li>
+  </ol>
 </p>
