@@ -13,4 +13,5 @@
     <li>Establish an endpoint connection from either a Windows or Linux client (most likely going to be Windows 11, since that is most common for organizations) </li>
     <li>Establish a Kali box that will be on a separate network, mimicking an attacker for full breach like scenarios </li>
   </ol>
+  <a href="https://docs.google.com/document/d/1R1A3IuKbX8T1tKsS1E_-OJ578eTofulLlBwLbM3EHxU/edit?usp=sharing">You can find my working DOCX for the lab here</a>
 </p>
